@@ -2,10 +2,9 @@
 
 ## 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=radical" width="44%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=radical" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=radical" />
 </div>
-
 
 ## Sobre mim
 🎓 Graduando em Ciência da Computação, com paixão por **Inteligência Artificial**, **Cibersegurança** e **Desenvolvimento de Software**.  
