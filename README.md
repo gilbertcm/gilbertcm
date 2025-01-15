@@ -32,7 +32,7 @@
 ## 📈 Experiência em Projetos
 - **[Rede Social Universitária](#):** Plataforma exclusiva para interação entre estudantes universitários.  
 - **[Gestão de Futebol Associativo](#):** Organização de campeonatos, tabelas de classificação e sorteio de equipes.  
-- **Modelagem de Dados:** Criação de diagramas ER para sistemas como clínicas, bancos e mapeamento meteorológico.  
+- **[Modelagem de Dados](#):** Criação de diagramas ER para sistemas como clínicas, bancos e mapeamento meteorológico.  
 
 ---
 
