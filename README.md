@@ -1,5 +1,12 @@
 # 👨‍💻 Gilbert - Desenvolvedor em Construção 🚀
 
+## 📊 GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=radical" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=radical" width="48%" />
+</div>
+
+
 ## Sobre mim
 🎓 Graduando em Ciência da Computação, com paixão por **Inteligência Artificial**, **Cibersegurança** e **Desenvolvimento de Software**.  
 🎯 Meu objetivo é me tornar um especialista em programação, seguindo os passos de grandes nomes da tecnologia como Bill Gates e Steve Jobs.  
@@ -50,12 +57,6 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gilbertcm)  
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gilbert_cm)  
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertcm139@gmail.com)
-
----
-
-## 📊 GitHub Stats
-![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=radical)
 
 ---
 
