@@ -2,8 +2,8 @@
 
 ## 📊 GitHub Stats
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=radical" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=radical" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=dracula" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=dracula" />
 </div>
 
 ## Sobre mim
