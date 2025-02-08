@@ -1,4 +1,4 @@
-# 👨‍💻 Gilbert - Desenvolvedor em Construção 🚀
+# 👨🏾‍💻 Gilbert - Desenvolvedor em Construção 🚀
 
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=dracula" />
