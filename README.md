@@ -31,6 +31,7 @@
 ![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-702963?style=for-the-badge&logo=brain&logoColor=white)
 ![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-FF0000?style=for-the-badge&logo=shield-check&logoColor=white)
 ![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-4CAF50?style=for-the-badge&logo=code&logoColor=white)
+![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-2196F3?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
