@@ -8,7 +8,7 @@
 ## Sobre mim
 🎓 Graduando em Ciência da Computação, com paixão por **Inteligência Artificial**, **Cibersegurança** e **Desenvolvimento de Software**.  
 🎯 Meu objetivo é me tornar um especialista em programação, seguindo os passos de grandes nomes da tecnologia como Bill Gates e Steve Jobs.  
-🌟 Busco criar soluções inovadoras, como uma **rede social universitária exclusiva**, e contribuir com a comunidade de tecnologia.
+🌟 Busco criar soluções inovadoras e contribuir com a comunidade de tecnologia.
 
 ---
 
