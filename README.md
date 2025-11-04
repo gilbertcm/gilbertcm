@@ -37,8 +37,8 @@
 
 ## 📈 Experiência em Projetos
 - **[Jogo de Go (9x9) Distribuído](#):** Implementação de uma versão acadêmica do jogo de tabuleiro Go (9x9), aplicando conceitos de sistemas distribuídos para permitir a comunicação e jogabilidade entre máquinas distintas.  
-- **[Projeto de Organização e Arquitetura de Computadores (OAC)](#):** Desenvolvimento de um projeto prático em Java para aplicar conceitos fundamentais de OAC (Organização e Arquitetura de Computadores).  
-- **[Jogo de Adivinhação em Rede](#):** Criação de um jogo de adivinhação como projeto para Redes de Computadores, utilizando comunicação em rede e fundamentos de sistemas distribuídos.  
+- **[Simulador de CPU (Projeto de OAC)](#):** Desenvolvimento de um simulador de CPU para a disciplina de Organização e Arquitetura de Computadores. O projeto envolveu a simulação da execução de linguagem Assembly e foi programado utilizando Java.
+- **[Jogo de Adivinhação em Rede](#):** Desenvolvimento de um jogo de adivinhação de número secreto com arquitetura cliente-servidor, utilizando soquetes TCP para comunicação. O cliente possui interface gráfica (GUI) em Tkinter para envio de palpites e recebimento de feedback (maior, menor ou correto).  
 
 ---
 
