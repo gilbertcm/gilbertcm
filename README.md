@@ -36,9 +36,9 @@
 ---
 
 ## 📈 Experiência em Projetos
-- **[Rede Social Universitária](#):** Plataforma exclusiva para interação entre estudantes universitários.  
-- **[Gestão de Futebol Associativo](#):** Organização de campeonatos, tabelas de classificação e sorteio de equipes.  
-- **[Modelagem de Dados](#):** Criação de diagramas ER para sistemas como clínicas, bancos e mapeamento meteorológico.  
+- **[Jogo de Go (9x9) Distribuído](#):** Implementação de uma versão acadêmica do jogo de tabuleiro Go (9x9), aplicando conceitos de sistemas distribuídos para permitir a comunicação e jogabilidade entre máquinas distintas.  
+- **[Projeto de Organização e Arquitetura de Computadores (OAC)](#):** Desenvolvimento de um projeto prático em Java para aplicar conceitos fundamentais de OAC (Organização e Arquitetura de Computadores).  
+- **[Jogo de Adivinhação em Rede](#):** Criação de um jogo de adivinhação como projeto para Redes de Computadores, utilizando comunicação em rede e fundamentos de sistemas distribuídos.  
 
 ---
 
