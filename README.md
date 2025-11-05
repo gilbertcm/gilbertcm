@@ -45,8 +45,9 @@
 ## 🎓 Formação e Estudos
 - **Formação Acadêmica:** Ciência da Computação.
 - **Residência Conecta e Capacita:** Desenvolvedor Back-End com Python
-- **Planos de Estudo Atuais:**  
-  - **Python e IA:** Aprofundamento nas bibliotecas fundamentais para ciência de dados.  
+- **Planos de Estudo Atuais:**
+  - **Desenvolvimento Web:** Especialização em Desenvolvimento Web (Full-Stack)
+  - **Python e IA:** Aprofundamento nas bibliotecas fundamentais para ciência de dados.
   - **Cibersegurança:** Especialização em hacking ético e forense digital.  
   - **Desenvolvimento de Software:** Aprendizado em fundamentos de design e engenharia de software.
 
