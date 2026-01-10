@@ -1,9 +1,10 @@
 # 👨🏾‍💻 Gilbert - Desenvolvedor Web 🚀
 
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=dracula" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=dracula" /> 
-</div>
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=dracula&cache_seconds=86400" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=dracula&cache_seconds=86400" />
+</p>
+
 
 ## Sobre mim
 🎓 Graduando em Ciência da Computação, com foco em **Desenvolvimento Web**, **Back-End com Python**, **Inteligência Artificial** e **Cibersegurança**.  
