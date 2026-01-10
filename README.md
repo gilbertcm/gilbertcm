@@ -1,8 +1,8 @@
 # 👨🏾‍💻 Gilbert - Desenvolvedor Web 🚀
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=dracula&cache_seconds=86400" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=dracula&cache_seconds=86400" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=dark&cache_seconds=86400" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=dark&cache_seconds=86400" />
 </p>
 
 
