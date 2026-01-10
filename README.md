@@ -1,9 +1,9 @@
 # 👨🏾‍💻 Gilbert - Desenvolvedor Web 🚀
 
-<p align="center">
+<div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=dracula" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=dracula" />
-</p>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertcm&layout=compact&theme=dracula" /> 
+</div>
 
 ## Sobre mim
 🎓 Graduando em Ciência da Computação, com foco em **Desenvolvimento Web**, **Back-End com Python**, **Inteligência Artificial** e **Cibersegurança**.  
