@@ -22,8 +22,8 @@
 
 Sou graduando em **Ciência da Computação pela Universidade Estadual de Santa Cruz (UESC)**, com experiência prática consolidada através de duas residências de desenvolvimento de software:
 
-- 🐍 **Residência Conecta e Capacita** — Desenvolvedor Back-End com Python
-- 🌐 **Residência IFBA** — Desenvolvedor Web
+- 🐍 **Residência Conecta e Capacita** - Desenvolvedor Back-End com Python
+- 🌐 **Residência IFBA** - Desenvolvedor Web
 
 Atuo no ciclo completo de desenvolvimento — do levantamento de requisitos ao deploy — e busco me especializar em soluções bem arquitetadas, escaláveis e seguras. Acredito que boas práticas e arquitetura sólida são o que separam o código que funciona do código que dura.
 
