@@ -7,8 +7,8 @@
 
 
 ## Sobre mim
-🎓 Graduando em Ciência da Computação, com foco em **Desenvolvimento Web**, **Back-End com Python**, **Inteligência Artificial** e **Cibersegurança**.  
-🎯 Meu objetivo é me tornar um especialista em programação, desenvolvendo soluções robustas e bem arquitetadas.  
+🎓 Cientista da Computação e Engenheiro de Software, com foco em **Desenvolvimento Web**, **Back-End com Python**, **Inteligência Artificial** e **Cibersegurança**.  
+🎯 Meu objetivo é me tornar um especialista em engenharia de software, desenvolvendo soluções robustas e bem arquitetadas.  
 🌟 Interesse contínuo em boas práticas, arquitetura de software e aprendizado constante.
 
 ---
