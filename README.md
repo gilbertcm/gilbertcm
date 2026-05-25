@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Gilbert - Desenvolvedor Web 🚀
+# 👨🏾‍💻 Gilbert - Software Engineer 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gilbertcm&show_icons=true&theme=dark&cache_seconds=86400" />
